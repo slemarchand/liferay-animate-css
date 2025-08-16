@@ -1,0 +1,7 @@
+assemble:
+    - include: static/*.css
+slemarchand-animatecss-global-css:
+    name: Animate CSS
+    scope: layout
+    type: globalCSS
+    url: global.*.css

@@ -1,0 +1,23 @@
+# Liferay / Gradle
+build/
+dist/
+.gradle/
+.lfrbuild-portal-tools/
+.bundle/
+
+# Node (optional front-end tooling)
+node_modules/
+npm-debug.log*
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
