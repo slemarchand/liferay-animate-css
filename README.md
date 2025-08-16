@@ -6,7 +6,6 @@ A **Liferay CSS Client Extension** that integrates [Animate.css](https://animate
 
 With this extension, you can add animation effects to any fragment simply by adding the appropriate **Animate.css class** (e.g. `animate__fadeIn`, `animate__bounce`) to the field  **Advanced → CSS → CSS Classes** of your fragment.  
 
----
 
 ## ✨ Features  
 
@@ -15,13 +14,11 @@ With this extension, you can add animation effects to any fragment simply by add
 - ⚡ **Powered by Animate.css**: Brings over 70 animation effects.  
 - 🧩 **No Code Changes**: Works with existing Liferay fragments.  
 
----
 
 ## 📦 Installation  
 
 Install from Lliferay Marketplace (soon available).
 
----
 
 ## 🚀 Usage  
 
@@ -40,14 +37,12 @@ Install from Lliferay Marketplace (soon available).
 
 > Tip: You can chain classes (e.g., `animate__animated animate__fadeIn animate__faster`). See [Animate.css docs for timing helpers](https://animate.style/#utilities).
 
----
 
 ## 📚 References  
 
 - [Liferay Client Extensions](https://learn.liferay.com/dxp/latest/en/developing-applications/client-extensions.html)  
 - [Animate.css Documentation](https://animate.style/)  
 
----
 
 ## 📄 License  
 
